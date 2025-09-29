@@ -11,6 +11,7 @@ Insights
 
 •	Geographic Focus: Sales are highly concentrated in Argentina, Colombia, and Brazil (76.3% of revenue) 
 
+
 Actionable Recommendations
 
 •	Urgent Fix: Invest in technology and staffing to reduce wait times and improve service scores, which will directly impact customer volume and loyalty.
